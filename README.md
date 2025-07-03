@@ -1,9 +1,2 @@
 # Hello there!
-
-<img src="https://raw.githubusercontent.com/dcwhitesnake/dcwhitesnake/main/gh-profile-banner-v1.png" alt="Banner showing my profile and what I do">
-
-I'm a backend engineer who enjoys learning and creating things for and about the web. I believe programming is a beautiful endeavour and I am glad to be a disciple.
-
-## Other social links:
-- <a href="https://www.linkedin.com/in/david-okeke-chihurumnanya">Linkedin</a>
-- <a href="https://www.twitter.com/dc_okeke">Twitter</a>
+I am a backend developer specializing in building and maintaining robust systems. My experience at SAAS has allowed me to hone my skills in troubleshooting, performance optimization, and API design. I excel at collaborating with frontend developers to ensure seamless integration between backend services and user interfaces. My proficiency in database management, version control, and agile development methodologies further strengthens my ability to contribute to a team and deliver high-quality software solutions.
